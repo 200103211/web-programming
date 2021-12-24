@@ -149,7 +149,7 @@ function outNum(num, elem) {
 		t);
 }
 
-outNum(288, 'out-1');
+outNum(1802, 'out-1');
 outNum(1802, 'out-2');
 			</script>
 </body>
